@@ -8,7 +8,7 @@ This is a little library (based on Allegro 5 library) written in C++ by Paulina 
 
 ## Credits
 
-- Used library: [Allegro 5](https://liballeg.org/)
+- Used library: [Allegro 5](https://github.com/liballeg/allegro5/)
 
 ## Notes
 
